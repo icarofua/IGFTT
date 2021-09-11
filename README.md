@@ -6,6 +6,12 @@ If you use this code as part of your work, please cite the following paper:
 
 IGFTT: towards an efficient alternative to SIFT and SURF. Icaro O. de Oliveira, Keiko V. Ono Fonseca and Eduardo Todt. In International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG), Plzen, Czech Republic, June 2015.
 
+## Python code
+To use python code you need:
+- Python 3+
+- opencv-python
+- opencv-contrib-python
+
 ## Contact Info
 
 Important: If you work in a research institution, university, company or you are a freelance and you are using IGFTT in your work, please send me an email!! I would like to know the people that are using IGFTT around the world!!"
