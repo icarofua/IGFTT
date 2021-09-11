@@ -11,6 +11,7 @@ To use python code you need:
 - Python 3+
 - opencv-python
 - opencv-contrib-python
+- numpy
 
 ## Contact Info
 
